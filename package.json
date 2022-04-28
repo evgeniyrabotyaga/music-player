@@ -14,7 +14,6 @@
   "dependencies": {
     "fractional": "^1.0.0",
     "parcel-bundler": "^1.12.5",
-    "regenerator-runtime": "^0.13.9",
-    "hideExpression": "parcel core-js"
+    "regenerator-runtime": "^0.13.9"
   }
 }
